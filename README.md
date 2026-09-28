@@ -1,2 +1,3 @@
-# qanz
-qanz erp (soon)
+# Qanz
+
+![Qanz Logo](./logo.svg)
